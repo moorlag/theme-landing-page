@@ -44,11 +44,11 @@ header:
     show_theme_chooser: true
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} My Company'
+#footer:
+ # copyright:
+ #   notice: '© {year} My Company'
 
 # Localization
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+#locale:
+ # date_format: 'Jan 2, 2006'
+  #time_format: '3:04 PM'
