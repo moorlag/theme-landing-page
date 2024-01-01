@@ -10,19 +10,19 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Heidis Koch Klub
+      text: Cook like it's the '70s
       primary_action:
-        text: Get Started
+        text: But first, starters
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: More about Heidis
         url: https://docs.hugoblox.com
       announcement:
-        text: Announcing the release of version 1.
+        text: Starters are now online!
         link:
-          text: Read more
+          text: Learn to cook
           url: /blog/
     design:
       spacing:
@@ -39,18 +39,18 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: What's Heidis Kock Klub?
+      text: Recipe cards from the '70
       items:
-        - name: Optimized SEO
+        - name: Now all translated
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Orginally in German, but with the power of AI we've translated all the recipes!
+        - name: Updated measurment
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: What is a eßl. anyways 
+        - name: Now with calculated calories!
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+          description: Not only great taste, also an informed taste.
         - name: No-Code
           icon: code-bracket
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
