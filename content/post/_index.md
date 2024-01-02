@@ -1,11 +1,11 @@
 ---
 title: Blog
 ---
-{{ range .Site.Data.recipes }}
+{{ range .Site.data.recipes }}
 <article>
   <h1>{{ .title }}</h1>
-  <time>{{ .date }}</time>
-  <p>{{ .description }}</p>
+  <time>{{ .prep_time }}</time>
+  <p>{{ .ingredients }}</p>
   <!-- Add more fields as needed -->
 </article>
 {{ end }}
