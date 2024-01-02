@@ -4,4 +4,10 @@ date: 2023-12-01
 share: false
 ---
 
-Add your company legal terms here...
+{{ range .Site.data.recipes }}
+<div>
+  <h2>{{ .title }}</h2>
+  <p>Preparation time: {{ .prep_time }}</p>
+  <!-- Add more fields as needed -->
+</div>
+{{ end }}
