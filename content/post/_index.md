@@ -1,5 +1,6 @@
 ---
 title: Blog
+---
 
 {{ range .Site.data.recipes }}
 <article>
@@ -9,4 +10,3 @@ title: Blog
   <!-- Add more fields as needed -->
 </article>
 {{ end }}
----
