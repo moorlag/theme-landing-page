@@ -4,7 +4,7 @@ date: 2023-12-01
 share: false
 ---
 
-{{ range .Site.data.recipes }}
+{{ range .site.data.recipes }}
 <div>
   <h2>{{ .title }}</h2>
   <p>Preparation time: {{ .prep_time }}</p>
