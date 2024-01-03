@@ -5,6 +5,7 @@
 ###########################
 
 imports:
-  - path: github.com/moorlag/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/moorlag/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+
  
